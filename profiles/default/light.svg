@@ -604,13 +604,13 @@
     </g>
   
 
-    <g transform="translate(0, 360)" id="widget-widget_a273e62f-d6d1-4a20-b311-e07b7ace8401">
+    <g transform="translate(0, 361)" id="widget-widget_a273e62f-d6d1-4a20-b311-e07b7ace8401">
 
       
       
       
       
-      <svg xmlns="http://www.w3.org/2000/svg" width="328" height="230" viewBox="0 0 370 400" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <svg xmlns="http://www.w3.org/2000/svg" width="320" height="230" viewBox="0 0 370 400" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
 <defs><linearGradient id="portrait-bg-widget_a273e62f-d6d1-4a20-b311-e07b7ace8401" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="transparent"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
 <rect width="370" height="400" rx="12" fill="url(#portrait-bg-widget_a273e62f-d6d1-4a20-b311-e07b7ace8401)"/>
 <rect x="0.5" y="0.5" width="369" height="399" rx="12" fill="none" stroke="#231f38" stroke-width="1"/>

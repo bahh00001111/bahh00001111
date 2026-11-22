@@ -45658,10 +45658,10 @@
       "name": "Asciiprofile-portrait Widget",
       "position": {
         "x": 0,
-        "y": 360
+        "y": 361
       },
       "size": {
-        "width": 328,
+        "width": 320,
         "height": 230
       },
       "config": {
@@ -57311,7 +57311,7 @@
   "templateId": "mission-control",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795359152500_nfc1q",
-    "updatedAt": "2026-11-22T14:52:38.260Z"
+    "revision": "rev_1795359357989_hagmv",
+    "updatedAt": "2026-11-22T14:56:01.858Z"
   }
 }

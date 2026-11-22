@@ -37,23 +37,7 @@
   <img src="https://stats.pphat.top/stats?username=bahh00001111&avatar_mode=radar&data_border_style=solid&data_border_frame_position=in&color=red" />
 </p>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/bahh00001111/bahh00001111/pacman-output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/bahh00001111/bahh00001111/pacman-output/pacman-contribution-graph.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/bahh00001111/bahh00001111/pacman-output/pacman-contribution-graph.svg"
-      alt="Pacman contribution graph animation"
-    />
-  </picture>
-</p>
-<p align="center">
+
 
 ### 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)

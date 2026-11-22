@@ -15,6 +15,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahh00001111&theme=highcontrast&background=0d1117&stroke=ff4500&ring=ff4500&fire=ff4500&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://stats.pphat.top/stats?username=bahh00001111&avatar_mode=radar&data_border_style=solid&data_border_frame_position=in&color=red" />
+</p>
+
 ### 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)

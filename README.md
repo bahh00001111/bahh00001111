@@ -1,8 +1,8 @@
-# Hi there, I'm Bet Vinak 👋
-
-Junior Full-Stack Developer passionate about building functional web applications, RESTful APIs, and responsive UI.
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahh00001111/bahh00001111/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahh00001111/bahh00001111/output/github-contribution-grid-snake-light.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/bahh00001111/bahh00001111/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -21,16 +21,6 @@ Junior Full-Stack Developer passionate about building functional web application
 ### 📊 GitHub Stats
 ![Vinak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahh00001111&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahh00001111&layout=compact&theme=tokyonight)
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahh00001111/bahh00001111/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahh00001111/bahh00001111/output/github-contribution-grid-snake-light.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/bahh00001111/bahh00001111/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 

@@ -1,5 +1,23 @@
 <img src="https://raw.githubusercontent.com/bahh00001111/bahh00001111/main/header.svg" width="100%" alt="Sleek Hero">
 <picture>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bahh00001111/bahh00001111/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/bahh00001111/bahh00001111/pacman-output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/bahh00001111/bahh00001111/pacman-output/pacman-contribution-graph.svg"
+      alt="Pacman contribution graph animation"
+    />
+  </picture>
+</p>
+<p align="center">
   
 <br>
 <img src="https://ryme.md/api/render/sleek-github-stats?u=bahh00001111&bg=0d0d10&fg=f7f7fb&accent=dc2626&muted=a5a5b3" width="100%" alt="Sleek GitHub">

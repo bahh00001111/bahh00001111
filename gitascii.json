@@ -17,7 +17,7 @@
         "cols": 300,
         "rows": 150,
         "accentColor": "#a78bfa",
-        "backgroundColor": "#0d0d14",
+        "backgroundColor": "transparent",
         "borderColor": "#0d0d14",
         "hideDecorations": true,
         "hideBorder": false,
@@ -45511,7 +45511,8 @@
           "██▀█  ██ ████████ █████▄  ",
           "██ ▀█ ██ ██    ██ ██  ▀██▄",
           "██   ███ ██    ██ ██    ██"
-        ]
+        ],
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -45538,7 +45539,8 @@
           "email"
         ],
         "renderMode": "multi",
-        "showText": false
+        "showText": false,
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -45556,7 +45558,9 @@
         "width": 800,
         "height": 220
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 8,
@@ -45591,7 +45595,8 @@
           "bootstrap"
         ],
         "animationDuration": 1500,
-        "animationDelay": 0
+        "animationDelay": 0,
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -45609,7 +45614,9 @@
         "width": 200,
         "height": 90
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 12,
@@ -45637,7 +45644,8 @@
           "#b91c1c",
           "#ef4444",
           "#f87171"
-        ]
+        ],
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -57137,7 +57145,8 @@
           ]
         ],
         "cols": 150,
-        "rows": 75
+        "rows": 75,
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -57156,7 +57165,8 @@
         "height": 228
       },
       "config": {
-        "textColor": "#00ffff"
+        "textColor": "#00ffff",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -57174,7 +57184,9 @@
         "width": 800,
         "height": 120
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 10
@@ -57191,7 +57203,9 @@
         "width": 390,
         "height": 210
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 11
@@ -57208,7 +57222,9 @@
         "width": 390,
         "height": 350
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 13
@@ -57227,7 +57243,8 @@
       },
       "config": {
         "hideLangsArr": [],
-        "hideLangs": ""
+        "hideLangs": "",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -57245,7 +57262,9 @@
         "width": 800,
         "height": 360
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 16
@@ -57268,7 +57287,8 @@
           "portfolio",
           "telegram",
           "instagram"
-        ]
+        ],
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -57289,7 +57309,7 @@
   "templateId": "mission-control",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795358603982_9t5ct",
-    "updatedAt": "2026-11-22T14:43:28.426Z"
+    "revision": "rev_1795358757568_y9yo1",
+    "updatedAt": "2026-11-22T14:46:02.645Z"
   }
 }

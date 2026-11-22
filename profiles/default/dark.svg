@@ -392,7 +392,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="800" height="220" fill="#0d0d14" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="800" height="220" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
       
       
     <text x="24" y="32" font-family="&apos;JetBrains Mono&apos;, monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ CONTRIBUTION SNAKE ]</text>
@@ -593,7 +593,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="800" height="120" fill="#0d0d14" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="800" height="120" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
       
       
           <rect width="800" height="120" fill="#18181b" rx="4" opacity="0.6" stroke="#231f38" stroke-width="1" />
@@ -611,7 +611,7 @@
       
       
       <svg xmlns="http://www.w3.org/2000/svg" width="328" height="230" viewBox="0 0 370 400" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-<defs><linearGradient id="portrait-bg-widget_a273e62f-d6d1-4a20-b311-e07b7ace8401" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d0d14"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<defs><linearGradient id="portrait-bg-widget_a273e62f-d6d1-4a20-b311-e07b7ace8401" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="transparent"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
 <rect width="370" height="400" rx="12" fill="url(#portrait-bg-widget_a273e62f-d6d1-4a20-b311-e07b7ace8401)"/>
 <rect x="0.5" y="0.5" width="369" height="399" rx="12" fill="none" stroke="#231f38" stroke-width="1"/>
 <line x1="0" y1="30" x2="370" y2="30" stroke="#231f38"/>
@@ -856,7 +856,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="390" height="210" fill="#0d0d14" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="390" height="210" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
       
       
     <text x="24" y="32" font-family="&apos;JetBrains Mono&apos;, monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GITHUB STREAK STATS ]</text>
@@ -895,7 +895,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        99
+                        100
                     </text>
                 </g>
 
@@ -950,7 +950,7 @@
                 <!-- Longest Streak big number -->
                 <g transform='translate(412.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.2s'>
-                        2
+                        3
                     </text>
                 </g>
 
@@ -964,7 +964,7 @@
                 <!-- Longest Streak range -->
                 <g transform='translate(412.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.4s'>
-                        Mar 2, 2026 - Mar 3, 2026
+                        Nov 17, 2026 - Nov 19, 2026
                     </text>
                 </g>
             </g>
@@ -980,7 +980,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="200" height="90" fill="#0d0d14" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="200" height="90" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
       
       
     <text x="24" y="32" font-family="&apos;JetBrains Mono&apos;, monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ VIEWS COUNTER ]</text>
@@ -1004,7 +1004,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="536" height="228" fill="#0d0d14" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="536" height="228" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
       
       <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> bahh00001111@github </tspan><tspan fill="#3d444d">──────────────────────────────────────</tspan></text>
 <text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">...............................</tspan><tspan fill="#c9d1d9"> 11 months, 15 days</tspan></text>
@@ -1014,7 +1014,7 @@
 <text x="12" y="118" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">..........................</tspan><tspan fill="#c9d1d9"> github.com/bahh00001111</tspan></text>
 <text x="12" y="144" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">─────────────────────────────────────────────</tspan></text>
 <text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">................</tspan><tspan fill="#79c0ff"> 12</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">.................</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> 99</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">.............</tspan><tspan fill="#79c0ff"> 1</tspan></text>
+<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">.............</tspan><tspan fill="#79c0ff"> 100</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">.............</tspan><tspan fill="#79c0ff"> 1</tspan></text>
   
     </g>
   
@@ -1027,7 +1027,7 @@
       
       <svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
 <style>@keyframes cell-widget_2a9b7045-8cad-4207-97dd-419c0d902d23 {  0%   { opacity: 0; transform: translateY(-6px); }  100% { opacity: 1; transform: translateY(0); }}.c-widget_2a9b7045-8cad-4207-97dd-419c0d902d23 { opacity: 0; animation: cell-widget_2a9b7045-8cad-4207-97dd-419c0d902d23 0.42s cubic-bezier(.2,.8,.2,1) both; }</style>
-<defs><linearGradient id="heatmap-bg-widget_2a9b7045-8cad-4207-97dd-419c0d902d23" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1420"/><stop offset="1" stop-color="#0d0d14"/></linearGradient></defs>
+<defs><linearGradient id="heatmap-bg-widget_2a9b7045-8cad-4207-97dd-419c0d902d23" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1420"/><stop offset="1" stop-color="transparent"/></linearGradient></defs>
 <rect width="800" height="240" rx="12" fill="url(#heatmap-bg-widget_2a9b7045-8cad-4207-97dd-419c0d902d23)"/>
 <rect x="0.5" y="0.5" width="799" height="239" rx="12" fill="none" stroke="#231f38" stroke-width="1" stroke-opacity="0.55"/>
 <line x1="0" y1="30" x2="800" y2="30" stroke="#231f38" stroke-opacity="0.35"/>
@@ -1414,7 +1414,7 @@
 <rect class="c-widget_2a9b7045-8cad-4207-97dd-419c0d902d23" style="animation-delay:1.098s" x="753.25" y="105" width="11" height="11" rx="2.5" fill="#450a0a"><title>2026-11-19: 1 contribution</title></rect>
 <rect class="c-widget_2a9b7045-8cad-4207-97dd-419c0d902d23" style="animation-delay:1.143s" x="753.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-11-20: 0 contributions</title></rect>
 <rect class="c-widget_2a9b7045-8cad-4207-97dd-419c0d902d23" style="animation-delay:1.188s" x="753.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-11-21: 0 contributions</title></rect>
-<rect class="c-widget_2a9b7045-8cad-4207-97dd-419c0d902d23" style="animation-delay:0.936s" x="767" y="50" width="11" height="11" rx="2.5" fill="#b91c1c"><title>2026-11-22: 24 contributions</title></rect>
+<rect class="c-widget_2a9b7045-8cad-4207-97dd-419c0d902d23" style="animation-delay:0.936s" x="767" y="50" width="11" height="11" rx="2.5" fill="#b91c1c"><title>2026-11-22: 25 contributions</title></rect>
 <text x="658.25" y="161.1" fill="#7d8590" font-size="10" text-anchor="end">Less</text>
 <rect x="664.25" y="152.25" width="11" height="11" rx="2.2" fill="#161b22"/>
 <rect x="678" y="152.25" width="11" height="11" rx="2.2" fill="#450a0a"/>
@@ -1424,10 +1424,10 @@
 <rect x="733" y="152.25" width="11" height="11" rx="2.2" fill="#f87171"/>
 <text x="778" y="161.1" fill="#7d8590" font-size="10" text-anchor="end">More</text>
 <line x1="0" y1="177.25" x2="800" y2="177.25" stroke="#231f38" stroke-opacity="0.25"/>
-<text x="22" y="201.25" font-size="13" fill="#39d353"><tspan font-weight="700">99</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
+<text x="22" y="201.25" font-size="13" fill="#39d353"><tspan font-weight="700">100</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
 <text x="778" y="201.25" font-size="12" fill="#7d8590" text-anchor="end">Nov 23, 2025 &#8594; Nov 22, 2026</text>
 <text x="22" y="225.25" font-size="13" fill="#7d8590">current streak <tspan fill="#ffa657" font-weight="700">1 days</tspan><tspan fill="#7d8590">   &#183;   longest </tspan><tspan fill="#ffa657" font-weight="700">2 days</tspan></text>
-<text x="778" y="225.25" font-size="12" fill="#7d8590" text-anchor="end">best day <tspan fill="#f2cc60" font-weight="700">24</tspan> on Nov 22, 2026</text>
+<text x="778" y="225.25" font-size="12" fill="#7d8590" text-anchor="end">best day <tspan fill="#f2cc60" font-weight="700">25</tspan> on Nov 22, 2026</text>
 </svg>
   
     </g>
@@ -1437,7 +1437,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="390" height="350" fill="#0d0d14" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="390" height="350" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
       
       
     
@@ -1473,7 +1473,7 @@
     <g class="row" style="animation-delay:150ms">
       <svg x="25" y="85" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5h-3.32zM8 10.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/></svg>
       <text x="50" y="97.5" class="label">Total Commits (2026):</text>
-      <text x="350" y="97.5" class="value" text-anchor="end">82</text>
+      <text x="350" y="97.5" class="value" text-anchor="end">83</text>
       
     </g>
     <g class="row" style="animation-delay:300ms">
@@ -1491,7 +1491,7 @@
     <g class="row" style="animation-delay:600ms">
       <svg x="25" y="160" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff"><path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm.5 4.75v3.44l2.78 1.61a.75.75 0 1 1-.75 1.3l-3.16-1.83A.75.75 0 0 1 7 8.69V4.75a.75.75 0 0 1 1.5 0z"/></svg>
       <text x="50" y="172.5" class="label">Estimated Coding Hours:</text>
-      <text x="350" y="172.5" class="value" text-anchor="end">45.5h</text>
+      <text x="350" y="172.5" class="value" text-anchor="end">46h</text>
       
     </g>
     <g class="row" style="animation-delay:750ms">
@@ -1503,13 +1503,13 @@
     <g class="row" style="animation-delay:900ms">
       <svg x="25" y="210" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff"><path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0zm0 3.5h-.75a.25.25 0 0 0-.25.25V6h8.5V3.75a.25.25 0 0 0-.25-.25h-.75v.75a.75.75 0 0 1-1.5 0V3.5h-5v.75a.75.75 0 0 1-1.5 0zm-1.5 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5z"/></svg>
       <text x="50" y="222.5" class="label">Commits This Week:</text>
-      <text x="350" y="222.5" class="value" text-anchor="end">27</text>
+      <text x="350" y="222.5" class="value" text-anchor="end">28</text>
       
     </g>
     <g class="row" style="animation-delay:1050ms">
       <svg x="25" y="235" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff"><path d="M.75 8a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0v-5.5A.75.75 0 0 1 .75 8zm4-4a.75.75 0 0 1 .75.75v9.5a.75.75 0 0 1-1.5 0v-9.5A.75.75 0 0 1 4.75 4zM8.75 0a.75.75 0 0 1 .75.75v13.5a.75.75 0 0 1-1.5 0V.75a.75.75 0 0 1 .75-.75zm4 2a.75.75 0 0 1 .75.75v11.5a.75.75 0 0 1-1.5 0V2.75a.75.75 0 0 1 .75-.75z"/></svg>
       <text x="50" y="247.5" class="label">Weekly Trend:</text>
-      <text x="350" y="247.5" class="value" text-anchor="end">27 commits</text>
+      <text x="350" y="247.5" class="value" text-anchor="end">28 commits</text>
       <g transform="translate(215.5, 237)">
           <path d="M 0 6 L 4 0 L 8 6 L 5 6 L 5 10 L 3 10 L 3 6 Z" fill="#3fb950"/>
           <text x="12" y="9" fill="#3fb950" class="trend-text">+100%</text>
@@ -1536,7 +1536,7 @@
     <g class="row" style="animation-delay:1650ms">
       <svg x="25" y="335" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff"><path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042z"/></svg>
       <text x="50" y="347.5" class="label">Contributions This Year:</text>
-      <text x="350" y="347.5" class="value" text-anchor="end">99</text>
+      <text x="350" y="347.5" class="value" text-anchor="end">100</text>
       
     </g>
     <g class="row" style="animation-delay:1800ms">
@@ -1568,7 +1568,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="800" height="160" fill="#0d0d14" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="800" height="160" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
       
       
     <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ TOP LANGUAGES ]</text>

@@ -17,7 +17,7 @@
         "cols": 300,
         "rows": 150,
         "accentColor": "#a78bfa",
-        "backgroundColor": "transparent",
+        "backgroundColor": "#060606",
         "borderColor": "#0d0d14",
         "hideDecorations": true,
         "hideBorder": false,
@@ -45481,7 +45481,8 @@
             "#000000"
           ]
         ],
-        "textColor": "#060606"
+        "textColor": "#f0f0f0",
+        "showTitle": true
       },
       "locked": false,
       "visible": true,
@@ -45513,7 +45514,7 @@
           "██ ▀█ ██ ██    ██ ██  ▀██▄",
           "██   ███ ██    ██ ██    ██"
         ],
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -45541,7 +45542,7 @@
         ],
         "renderMode": "multi",
         "showText": false,
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -45560,7 +45561,7 @@
         "height": 220
       },
       "config": {
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -45597,7 +45598,7 @@
         ],
         "animationDuration": 1500,
         "animationDelay": 0,
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -45616,7 +45617,7 @@
         "height": 90
       },
       "config": {
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -45646,7 +45647,7 @@
           "#ef4444",
           "#f87171"
         ],
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -45661,7 +45662,7 @@
         "y": 361
       },
       "size": {
-        "width": 320,
+        "width": 328,
         "height": 230
       },
       "config": {
@@ -57147,7 +57148,7 @@
         ],
         "cols": 150,
         "rows": 75,
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -57167,7 +57168,7 @@
       },
       "config": {
         "textColor": "#00ffff",
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -57186,7 +57187,7 @@
         "height": 120
       },
       "config": {
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -57205,7 +57206,7 @@
         "height": 210
       },
       "config": {
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -57224,7 +57225,7 @@
         "height": 350
       },
       "config": {
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -57245,7 +57246,7 @@
       "config": {
         "hideLangsArr": [],
         "hideLangs": "",
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -57264,7 +57265,7 @@
         "height": 360
       },
       "config": {
-        "backgroundColor": "transparent",
+        "backgroundColor": "#060606",
         "textColor": "transparent"
       },
       "locked": false,
@@ -57290,7 +57291,7 @@
           "telegram",
           "instagram"
         ],
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -57311,7 +57312,7 @@
   "templateId": "mission-control",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795359357989_hagmv",
-    "updatedAt": "2026-11-22T14:56:01.858Z"
+    "revision": "rev_1795360635516_98lrq",
+    "updatedAt": "2026-11-22T15:17:21.059Z"
   }
 }

@@ -392,7 +392,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="800" height="220" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="800" height="220" fill="#060606" stroke="#231f38" stroke-width="1" rx="0" />
       
       
     <text x="24" y="32" font-family="&apos;JetBrains Mono&apos;, monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ CONTRIBUTION SNAKE ]</text>
@@ -593,7 +593,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="800" height="120" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="800" height="120" fill="#060606" stroke="#231f38" stroke-width="1" rx="0" />
       
       
           <rect width="800" height="120" fill="#18181b" rx="4" opacity="0.6" stroke="#231f38" stroke-width="1" />
@@ -610,8 +610,8 @@
       
       
       
-      <svg xmlns="http://www.w3.org/2000/svg" width="320" height="230" viewBox="0 0 370 400" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-<defs><linearGradient id="portrait-bg-widget_a273e62f-d6d1-4a20-b311-e07b7ace8401" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="transparent"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+      <svg xmlns="http://www.w3.org/2000/svg" width="328" height="230" viewBox="0 0 370 400" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs><linearGradient id="portrait-bg-widget_a273e62f-d6d1-4a20-b311-e07b7ace8401" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#060606"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
 <rect width="370" height="400" rx="12" fill="url(#portrait-bg-widget_a273e62f-d6d1-4a20-b311-e07b7ace8401)"/>
 <rect x="0.5" y="0.5" width="369" height="399" rx="12" fill="none" stroke="#231f38" stroke-width="1"/>
 <line x1="0" y1="30" x2="370" y2="30" stroke="#231f38"/>
@@ -856,7 +856,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="390" height="210" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="390" height="210" fill="#060606" stroke="#231f38" stroke-width="1" rx="0" />
       
       
     <text x="24" y="32" font-family="&apos;JetBrains Mono&apos;, monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GITHUB STREAK STATS ]</text>
@@ -895,7 +895,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        100
+                        99
                     </text>
                 </g>
 
@@ -950,7 +950,7 @@
                 <!-- Longest Streak big number -->
                 <g transform='translate(412.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.2s'>
-                        3
+                        2
                     </text>
                 </g>
 
@@ -964,7 +964,7 @@
                 <!-- Longest Streak range -->
                 <g transform='translate(412.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.4s'>
-                        Nov 17, 2026 - Nov 19, 2026
+                        Mar 2, 2026 - Mar 3, 2026
                     </text>
                 </g>
             </g>
@@ -980,7 +980,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="200" height="90" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="200" height="90" fill="#060606" stroke="#231f38" stroke-width="1" rx="0" />
       
       
     <text x="24" y="32" font-family="&apos;JetBrains Mono&apos;, monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ VIEWS COUNTER ]</text>
@@ -1004,7 +1004,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="536" height="228" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="536" height="228" fill="#060606" stroke="#231f38" stroke-width="1" rx="0" />
       
       <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> bahh00001111@github </tspan><tspan fill="#3d444d">──────────────────────────────────────</tspan></text>
 <text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">...............................</tspan><tspan fill="#c9d1d9"> 11 months, 15 days</tspan></text>
@@ -1027,7 +1027,7 @@
       
       <svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
 <style>@keyframes cell-widget_2a9b7045-8cad-4207-97dd-419c0d902d23 {  0%   { opacity: 0; transform: translateY(-6px); }  100% { opacity: 1; transform: translateY(0); }}.c-widget_2a9b7045-8cad-4207-97dd-419c0d902d23 { opacity: 0; animation: cell-widget_2a9b7045-8cad-4207-97dd-419c0d902d23 0.42s cubic-bezier(.2,.8,.2,1) both; }</style>
-<defs><linearGradient id="heatmap-bg-widget_2a9b7045-8cad-4207-97dd-419c0d902d23" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1420"/><stop offset="1" stop-color="transparent"/></linearGradient></defs>
+<defs><linearGradient id="heatmap-bg-widget_2a9b7045-8cad-4207-97dd-419c0d902d23" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1420"/><stop offset="1" stop-color="#060606"/></linearGradient></defs>
 <rect width="800" height="240" rx="12" fill="url(#heatmap-bg-widget_2a9b7045-8cad-4207-97dd-419c0d902d23)"/>
 <rect x="0.5" y="0.5" width="799" height="239" rx="12" fill="none" stroke="#231f38" stroke-width="1" stroke-opacity="0.55"/>
 <line x1="0" y1="30" x2="800" y2="30" stroke="#231f38" stroke-opacity="0.35"/>
@@ -1437,7 +1437,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="390" height="350" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="390" height="350" fill="#060606" stroke="#231f38" stroke-width="1" rx="0" />
       
       
     
@@ -1462,7 +1462,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="VINAK BET&apos;s GitHub Stats" x="16" y="16" width="358" height="318" preserveAspectRatio="xMinYMin meet" viewBox="0 0 495 430">
   <title>VINAK BET&apos;s GitHub Stats</title>
   
-  <rect x="0.5" y="0.5" rx="4.5" ry="4.5" width="494" height="429" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect x="0.5" y="0.5" rx="4.5" ry="4.5" width="494" height="429" fill="#060606" stroke="#30363d" stroke-width="1"/>
   <text x="25" y="43" class="title">VINAK BET&apos;s GitHub Stats</text>
     <g class="row" style="animation-delay:0ms">
       <svg x="25" y="60" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/></svg>
@@ -1568,7 +1568,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="800" height="160" fill="transparent" stroke="#231f38" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="800" height="160" fill="#060606" stroke="#231f38" stroke-width="1" rx="0" />
       
       
     <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ TOP LANGUAGES ]</text>

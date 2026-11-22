@@ -24,6 +24,16 @@ Junior Full-Stack Developer passionate about building functional web application
 
 ---
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahh00001111/bahh00001111/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahh00001111/bahh00001111/output/github-contribution-grid-snake-light.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/bahh00001111/bahh00001111/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ### 📬 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nak743414)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinakbit@gmail.com)

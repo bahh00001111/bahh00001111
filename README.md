@@ -11,6 +11,10 @@
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/bahh00001111/bahh00001111/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahh00001111&theme=highcontrast&background=0d1117&stroke=ff4500&ring=ff4500&fire=ff4500&hide_border=true" width="48%" />
+</p>
+
 ### 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)

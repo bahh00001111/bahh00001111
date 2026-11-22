@@ -23,7 +23,7 @@ jobs:
       - name: Generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: vireakech
+          github_user_name: bahh00001111
 
       - name: Push to pacman output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

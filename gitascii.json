@@ -45588,13 +45588,15 @@
           "js",
           "html",
           "css",
-          "nodejs",
           "python",
           "git",
           "cpp",
           "php",
-          "reactnative",
-          "bootstrap"
+          "bootstrap",
+          "mysql",
+          "laravel",
+          "github",
+          "postman"
         ],
         "animationDuration": 1500,
         "animationDelay": 0,
@@ -57175,25 +57177,6 @@
       "zIndex": 12
     },
     {
-      "instanceId": "widget_44d24048-4eeb-4b5d-8bb2-b02ff99a9ea7",
-      "widgetId": "custom-image",
-      "name": "Custom-image Widget",
-      "position": {
-        "x": 0,
-        "y": 1960
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "backgroundColor": "#060606"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
-    },
-    {
       "instanceId": "widget_e83991e7-8718-42a5-9655-cc81dce1628d",
       "widgetId": "streak-stats",
       "name": "Streak-stats Widget",
@@ -57211,25 +57194,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 11
-    },
-    {
-      "instanceId": "widget_39aca6f2-e2e5-453c-bcda-2d8cea801fc1",
-      "widgetId": "ghstats",
-      "name": "Ghstats Widget",
-      "position": {
-        "x": 394,
-        "y": 898
-      },
-      "size": {
-        "width": 390,
-        "height": 350
-      },
-      "config": {
-        "backgroundColor": "#060606"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 13
     },
     {
       "instanceId": "widget_ad6b788c-c1cd-4da0-b141-e96d5aa5e354",
@@ -57258,11 +57222,11 @@
       "name": "Codeweb-hero-orbit Widget",
       "position": {
         "x": 0,
-        "y": 1692
+        "y": 1776
       },
       "size": {
         "width": 800,
-        "height": 360
+        "height": 304
       },
       "config": {
         "backgroundColor": "#060606",
@@ -57296,6 +57260,42 @@
       "locked": false,
       "visible": true,
       "zIndex": 16
+    },
+    {
+      "instanceId": "widget_3757b4ad-1e9f-4a28-8943-6f2e64162d04",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 0,
+        "y": 1648
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
+    },
+    {
+      "instanceId": "widget_6e9c0eb6-0e7f-4657-9fc3-107d9aa2b6ed",
+      "widgetId": "godprofile-neural",
+      "name": "Godprofile-neural Widget",
+      "position": {
+        "x": 394,
+        "y": 858
+      },
+      "size": {
+        "width": 406,
+        "height": 342
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 16
     }
   ],
   "globalStyles": {
@@ -57312,7 +57312,7 @@
   "templateId": "mission-control",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795360635516_98lrq",
-    "updatedAt": "2026-11-22T15:17:21.059Z"
+    "revision": "rev_1795534284376_8mt8v",
+    "updatedAt": "2026-11-24T15:31:34.950Z"
   }
 }
